@@ -1,4 +1,4 @@
-#Script to extract search results from amazon Uk 
+# Script to extract search results from amazon Uk 
 
 This script extracts search results from amazon.co.uk 
 and stores result in csv file. 
